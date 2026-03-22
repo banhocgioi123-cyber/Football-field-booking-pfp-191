@@ -1,0 +1,20 @@
+F001,San My Dinh,Tu Liem,7140.0,1500.0,True
+F002,San Co Nhan Tao A1,Cau Giay,800.0,300.0,False
+F003,San Bong Thong Nhat,Quan 10,10000.0,2000.0,True
+F004,San Mini 5 Nguoi,Quan 7,600.0,250.0,True
+F005,San Xuan Thuy,Cau Giay,1200.0,450.0,False
+F006,San Hoa Lu,Quan 1,5000.0,1200.0,True
+F007,San Bong Da Ky Hoa,Quan 10,1500.0,500.0,True
+F008,San Van Dong Hang Day,Dong Da,6500.0,1800.0,False
+F009,San Co Nhan Tao Thanh Lam,Nam Tu Liem,900.0,350.0,True
+F010,San Bong Chuyen Chuyen Viet,Tan Binh,750.0,280.0,True
+F011,San Cat Lai,Quan 2,2000.0,600.0,False
+F012,San Bong Da Mini HCA,Quan 12,850.0,320.0,True
+F013,San Quan Khu 7,Phu Nhuan,8000.0,2200.0,True
+F014,San Co Nhan Tao Linh Trung,Thu Duc,1100.0,400.0,False
+F015,San Bong Rach Chiec,Quan 9,3000.0,900.0,True
+F016,San Mini Dai Hoc Bach Khoa,Hai Ba Trung,700.0,300.0,True
+F017,San Bong Da An Khanh,Hoai Duc,1300.0,480.0,False
+F018,San Co Tu Nhien Song Da,Thanh Xuan,1600.0,550.0,True
+F019,San Bong Da Phu Nhuan,Phu Nhuan,1400.0,520.0,True
+F020,San Van Dong Lach Tray,Hai Phong,7500.0,1700.0,True
