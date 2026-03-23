@@ -7,7 +7,6 @@ class Field:
         self._hourly_rate = hourly_rate
         self._is_available = is_available
 
-    # Sử dụng @property theo yêu cầu
     @property
     def field_id(self):
         return self._field_id

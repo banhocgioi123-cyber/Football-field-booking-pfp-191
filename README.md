@@ -61,7 +61,7 @@ The system is designed with a simple and clear structure, using the following cl
 * `FieldManager`: Handles the main business logic, including adding, deleting, booking, cancelling, and displaying fields.
 * `file_io.py`: Provides reusable functions for saving data to and loading data from text files.
 * `main.py`: Serves as the entry point of the application and connects user input with the manager class.
-![alt text](ClassHierarchy.png)
+![alt text](ClassHierarchy-1.png)
 ### 2.3 Modular Structure
 To keep the code easy to maintain and extend, the project is separated into logical modules:
 
