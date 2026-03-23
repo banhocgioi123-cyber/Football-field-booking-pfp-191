@@ -178,25 +178,25 @@ The system was tested manually with normal cases and edge cases to ensure correc
 The Command Line Interface (CLI) provides a clear menu for users to interact with the system.
 
 * **Original field dataset**
-![Testing image](dataset_bandau.png)
+![alt text](image.png)
 
 * **Operation 1: Add new field**
-![Testing image](chuc_nang_1.png)
+![alt text](image-1.png)
 
 * **Operation 2: View all fields**
-![Testing image](chuc_nang_2.png)
+![alt text](image-2.png)
 
 * **Operation 3: Delete field**
-![Testing image](chuc_nang_3.png)
+![alt text](image-3.png)
 
 * **Operation 4: Book a field**
-![Testing image](chuc_nang_4.png)
+![alt text](image-4.png)
 
 * **Operation 5: Cancel booking**
-![Testing image](chuc_nang_5.png)
+![alt text](image-5.png)
 
 * **Operation 6: View current bookings**
-![Testing image](chuc_nang_6.png)
+![alt text](image-6.png)
 
 ---
 
