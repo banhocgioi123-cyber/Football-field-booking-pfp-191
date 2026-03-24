@@ -5,7 +5,7 @@
 
 **Project Topic:** Football Field Booking System
 
-**University:** FPT University
+**University:** FPT University 
 
 **Main contributor:** Nguyễn Hải Ban
 
