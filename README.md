@@ -10,6 +10,7 @@
 **Main contributor:** Nguyễn Hải Ban
 
 **Instructor:** Khoa Nguyễn
+
 **Date:** 24/03/2026
 
 ---
@@ -200,8 +201,10 @@ The Command Line Interface (CLI) provides a clear menu for users to interact wit
 * **Operation 2: View all fields**
 ![alt text](Danh_Sach_San.png)
 
+
 * **Operation 3: Delete field**
-![alt text](Xoa_San.png)
+ ![alt text](Xoa_San.png)
+
 
 * **Operation 4: Book a field**
 ![alt text](Them_San.png)
