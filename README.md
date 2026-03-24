@@ -61,7 +61,7 @@ The system is designed with a simple and clear structure, using the following cl
 * `FieldManager`: Handles the main business logic, including adding, deleting, booking, cancelling, and displaying fields.
 * `file_io.py`: Provides reusable functions for saving data to and loading data from text files.
 * `main.py`: Serves as the entry point of the application and connects user input with the manager class.
-![alt text](ClassHierarchy-1.png)
+![alt text](ClassHierarchy.png)
 ### 2.3 Modular Structure
 To keep the code easy to maintain and extend, the project is separated into logical modules:
 
@@ -179,25 +179,25 @@ The system was tested manually with normal cases and edge cases to ensure correc
 The Command Line Interface (CLI) provides a clear menu for users to interact with the system.
 
 * **Original field dataset**
-![alt text](image.png)
+![alt text](Danh_Sach_San.png)
 
 * **Operation 1: Add new field**
-![alt text](image-1.png)
+![alt text](Them_San.png)
 
 * **Operation 2: View all fields**
-![alt text](image-2.png)
+![alt text](Danh_Sach_San.png)
 
 * **Operation 3: Delete field**
-![alt text](image-3.png)
+![alt text](Xoa_San.png)
 
 * **Operation 4: Book a field**
-![alt text](image-4.png)
+![alt text](Them_San.png)
 
 * **Operation 5: Cancel booking**
-![alt text](image-5.png)
+![alt text](Huy_San.png)
 
 * **Operation 6: View current bookings**
-![alt text](image-6.png)
+![alt text](Danh_Sach_San_Dang_Duoc_Dat.png)
 
 ---
 
