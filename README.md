@@ -91,7 +91,21 @@ class Field:
     def field_id(self):
         return self._field_id
 ```
-
+**Abtraction**
+The user (in `main.py`) only needs to call `manager.book_field(id)` to perform a booking. They do not need to know that the system is internally looping through a list, checking boolean statuses, or performing file I/O operations to persist the data.
+```python
+def book_field(self, field_id: str):
+    for f in self.fields:
+        if f.field_id == field_id:
+            if f.is_available:
+                f.is_available = False # Cập nhật trạng thái
+                self.save_fields()     # Tự động lưu vào file vật lý
+                print("Đặt sân thành công!")
+            else:
+                print("Sân này đã được đặt!")
+            return
+    print("Không tìm thấy mã sân!")
+```
 **Status Handling:**  
 The `is_available` attribute uses a property with a setter so that booking and cancellation can update the field status in a controlled way.
 
@@ -206,12 +220,12 @@ The Command Line Interface (CLI) provides a clear menu for users to interact wit
 The Football Field Booking System successfully meets the main requirements of a simple management application. The project demonstrates basic but effective use of Object-Oriented Programming, modular design, file handling, and status-based logic. It is suitable as a beginner-friendly console project for managing sports field data.
 
 ### 6.2 System Limitations
-The current system stores data in plain text files, which is easy to implement but not ideal for large-scale or multi-user environments. In addition, there is no advanced validation for duplicate names, overlapping time slots, or reservation duration because the current design only tracks availability.
+The current system stores data in plain text files, which is easy to implement but not ideal for large-scale or multi-user environments. In addition, there is no advanced validation for duplicate names, overlapping time slots, or reservation duration because the current design only tracks availability. Finally, there is no polymorphism, inheritance.
 
 ### 6.3 Future Enhancements
 To improve this project in the future, the system could be expanded with:
 * Time-based booking and hourly reservation management.
 * User accounts and booking history.
 * Database storage instead of text files.
-* A graphical interface using `Tkinter` or a web interface using `Flask`.
+* Provide polymorphism, inheritance.
 
