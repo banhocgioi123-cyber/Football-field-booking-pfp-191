@@ -209,7 +209,8 @@ The Command Line Interface (CLI) provides a clear menu for users to interact wit
 ![alt text](Them_San.png)
 
 * **Operation 5: Cancel booking**
-![alt text](Huy_San.png)
+
+![alt text](Huy_San.png) 
 
 * **Operation 6: View current bookings**
 ![alt text](Danh_Sach_San_Dang_Duoc_Dat.png)
