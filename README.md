@@ -5,12 +5,11 @@
 
 **Project Topic:** Football Field Booking System
 
-**University:** FPT University
+**University:** FPT University 
 
-**Main contributor:** [Your name]
+**Main contributor:** Nguyễn Hải Ban
 
-**Instructor:** [Instructor name]
-
+**Instructor:** Khoa Nguyễn
 **Date:** 24/03/2026
 
 ---
