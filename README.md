@@ -230,5 +230,5 @@ To improve this project in the future, the system could be expanded with:
 * Time-based booking and hourly reservation management.
 * User accounts and booking history.
 * Database storage instead of text files.
-* Provide polymorphism, inheritance.
+* Provide polymorphism, inheritance as the instructor's requires.
 
