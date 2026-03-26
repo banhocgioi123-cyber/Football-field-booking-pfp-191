@@ -99,8 +99,8 @@ def book_field(self, field_id: str):
     for f in self.fields:
         if f.field_id == field_id:
             if f.is_available:
-                f.is_available = False # Cập nhật trạng thái
-                self.save_fields()     # Tự động lưu vào file vật lý
+                f.is_available = False 
+                self.save_fields()     
                 print("Đặt sân thành công!")
             else:
                 print("Sân này đã được đặt!")
